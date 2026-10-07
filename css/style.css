@@ -20,7 +20,8 @@ h2{
     text-align: justify;
 }*/
 
-.odd{
+
+/*.odd{
     background-color: aquamarine;
 }
 
@@ -34,4 +35,13 @@ h2{
 
 *{
     background-color: rgb(107, 40, 69);
+}*/
+
+
+.helloCost{
+    /*background-color: aquamarine;
+    background-color: rgb(red, green, blue);*/
+    background-color: #30546b;
+    color:black ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
