@@ -11,7 +11,19 @@ h2{
 }
 
 
-.icet{
+/*.icet{
     background-color: cadetblue;
     text-align: center;
+}
+
+.textAlignment{
+    text-align: justify;
+}*/
+
+.odd{
+    background-color: aquamarine;
+}
+
+.even{
+    background-color: blanchedalmond;
 }
