@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 h1{
     text-align: center;
@@ -45,5 +45,5 @@ h2{
     background-color: rgb(red, green, blue);*/
     background-color: #30546b;
     color:black ;
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Lobster Two", sans-serif;
 }
