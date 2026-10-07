@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 h1{
     text-align: center;
     background-color: aqua;
@@ -43,5 +45,5 @@ h2{
     background-color: rgb(red, green, blue);*/
     background-color: #30546b;
     color:black ;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Bebas Neue", sans-serif;
 }
