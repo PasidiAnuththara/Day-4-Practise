@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 h1{
     text-align: center;
@@ -13,17 +13,17 @@ h2{
 }
 
 
-/*.icet{
+.icet{
     background-color: cadetblue;
     text-align: center;
 }
 
 .textAlignment{
     text-align: justify;
-}*/
+}
 
 
-/*.odd{
+.odd{
     background-color: aquamarine;
 }
 
@@ -37,13 +37,54 @@ h2{
 
 *{
     background-color: rgb(107, 40, 69);
-}*/
+}
 
 
-.helloCost{
-    /*background-color: aquamarine;
-    background-color: rgb(red, green, blue);*/
-    background-color: #30546b;
+  .helloCost{
+   background-color: aquamarine;
+    background-color: rgb(red, green, blue);
+    background-color: #306b33;
     color:black ;
+    padding: 20px;
+    border: 5px solid #6b3034; ;
+} 
+
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Isometra&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: black;
     font-family: "Lobster Two", sans-serif;
+}
+
+h3{
+    text-align: justify;
+    background-color: cadetblue;
+    color: ;
+}
+
+.card{
+    background-color: bisque;
+    color: rgb(0, 208, 255);
+ }
+
+.card-description{
+    text-align: justify;
+    color: black;
+}
+
+.card-button{
+    background-color: rgb(42, 165, 142);   
+    text-align: justify;
+    padding: 20px;
+    border: 25px;
+}
+
+.card-selection{
+    color: rgb(160, 95, 101);
+    padding: 20px;
+    background-color: rgb(162, 255, 0);
 }
